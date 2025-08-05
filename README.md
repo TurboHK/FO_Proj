@@ -3,4 +3,4 @@
 
 **HKBU**: COMP 2046 Project
 
-**HKBU-UIC**: COMP 2013 Project
+**BN-HKBU**: COMP 2013 Project
